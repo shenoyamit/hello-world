@@ -12,3 +12,5 @@ And more!
 Making changes to readme in local branch on local computer
 
 Now some changes in the web client to check if i can pull it from my computer
+
+Hi
